@@ -10,4 +10,4 @@ Figure 1: Bert embeddings EDA | Figure 2: Dataframe head
 
 Figure 3: Modeling experimental results
 :---------------------------------:
-![](data/Fig2.png)
+![](data/Fig_2.png)
