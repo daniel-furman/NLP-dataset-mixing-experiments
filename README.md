@@ -6,5 +6,5 @@ Domain shift often hinders the predictive performance of machine learning models
 
 Figure 1: Bert embeddings EDA | Figure 2: df.head
 :---------------------------------:|:----------------------------------------:
-![](data/Fig1.png) | ![](data/Fig2.png)
+![](data/Fig1.png) | ![](data/Fig3.png)
 
